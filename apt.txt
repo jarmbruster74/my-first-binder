@@ -7,7 +7,7 @@ awscli
 ca-certificates
 curl
 apt-transport-https
-lsb-releasei
+lsb-release
 gnupg
 packer
 wget
