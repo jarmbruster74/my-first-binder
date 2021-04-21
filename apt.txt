@@ -1,0 +1,14 @@
+unzip
+git
+bash
+zsh
+openssl
+awscli
+ca-certificates
+curl
+apt-transport-https
+lsb-releasei
+gnupg
+packer
+wget
+golang
